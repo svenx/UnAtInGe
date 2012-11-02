@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="0607C4D0-0A82-4EF0-8326-6ACE629225BE" ModuleId="UnAtInGe" />
+  <Module PersistentId="7DB0F648-37DE-483D-BE5D-7EE3DD3E5955" ModuleId="UnAtInGeCore" />
+  <Module PersistentId="4CE1C1E4-C624-4E5A-A955-DE84C239ABB0" ModuleId="UnAtInGeCoreTest" />
+  <Module PersistentId="E922DDFF-C89D-421E-B1D4-3C189B48934C" ModuleId="UnAtInGeConsole" />
+</Modules>

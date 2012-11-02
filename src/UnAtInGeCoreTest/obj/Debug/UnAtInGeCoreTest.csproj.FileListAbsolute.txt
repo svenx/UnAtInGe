@@ -1,0 +1,11 @@
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCoreTest\bin\Debug\UnAtInGeCoreTest.dll
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCoreTest\bin\Debug\UnAtInGeCoreTest.pdb
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCoreTest\bin\Debug\nunit-console-runner.dll
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCoreTest\bin\Debug\nunit.framework.dll
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCoreTest\bin\Debug\nunit.util.dll
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCoreTest\bin\Debug\nunit.core.interfaces.dll
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCoreTest\bin\Debug\nunit.core.dll
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCoreTest\bin\Debug\nunit.framework.xml
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCoreTest\obj\Debug\UnAtInGeCoreTest.csprojResolveAssemblyReference.cache
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCoreTest\obj\Debug\UnAtInGeCoreTest.dll
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCoreTest\obj\Debug\UnAtInGeCoreTest.pdb

@@ -1,0 +1,5 @@
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCore\bin\Debug\UnAtInGeCore.dll
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCore\bin\Debug\UnAtInGeCore.pdb
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCore\obj\Debug\UnAtInGeCore.csprojResolveAssemblyReference.cache
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCore\obj\Debug\UnAtInGeCore.dll
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeCore\obj\Debug\UnAtInGeCore.pdb

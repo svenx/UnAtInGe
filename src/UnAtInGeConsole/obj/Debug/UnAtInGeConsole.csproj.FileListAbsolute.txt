@@ -1,0 +1,8 @@
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeConsole\bin\Debug\UnAtInGeConsole.exe.config
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeConsole\bin\Debug\UnAtInGeConsole.exe
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeConsole\bin\Debug\UnAtInGeConsole.pdb
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeConsole\obj\Debug\UnAtInGeConsole.csprojResolveAssemblyReference.cache
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeConsole\obj\Debug\UnAtInGeConsole.exe
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeConsole\obj\Debug\UnAtInGeConsole.pdb
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeConsole\bin\Debug\UnAtInGeCore.dll
+D:\Development\VisualStudio\Projects\UnAtInGe\UnAtInGeConsole\bin\Debug\UnAtInGeCore.pdb
